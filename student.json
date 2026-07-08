@@ -1,0 +1,41 @@
+{
+    "students": [
+        {
+            "firstname": "Anusha",
+            "lastname": "P",
+            "addressess": [
+                {
+                    "type": "perm",
+                    "street": "101",
+                    "apartment": "balaji apartments",
+                    "city": "hyderabad"
+                },
+                {
+                    "type": "current",
+                    "street": "101",
+                    "apartment": "balaji apartments",
+                    "city": "hyderabad"
+                }
+
+            ]
+        },
+        {
+            "firstname": "Anusha",
+            "lastname": "P",
+            "addressess": [
+                {
+                    "type": "perm",
+                    "street": "101",
+                    "apartment": "balaji apartments",
+                    "city": "hyderabad"
+                },
+                {
+                    "type": "current",
+                    "street": "101",
+                    "apartment": "balaji apartments",
+                    "city": "hyderabad"
+                }
+            ]
+        },
+    ]
+}

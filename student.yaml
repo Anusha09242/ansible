@@ -1,0 +1,27 @@
+- name: "Anusha P"
+  dob: 1900-01-01
+  mobile: "1234567890"
+  addresses:
+  - type: "perm"
+    street: 101
+    apartment: "balaji apartments"
+    city: "HYD"
+
+  - type: "current"
+    street: 101
+    apartment: "balaji apartments"
+    city: "HYD"
+
+- name: "Anusha P"
+  dob: 1900-01-01
+  mobile: "1234567890"
+  addresses:
+  - type: "perm"
+    street: 101
+    apartment: "balaji apartments"
+    city: "HYD"
+
+  - type: "current"
+    street: 101
+    apartment: "balaji apartments"
+    city: "HYD"

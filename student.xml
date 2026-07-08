@@ -1,0 +1,44 @@
+<Students>
+    <Student1>
+        <FirstName>Anusha</FirstName>
+        <LastName>P</LastName>
+        <dob>1900-01-01</dob>
+        <mobile></mobile>
+        <!-- <Address>gandhi nagar, hyderabad,1234</Address>-->
+        <Addressess>
+            <PermAddress>
+                <Street>101</Street>
+                <AddressLine1>Gandhi nagar</AddressLine1>
+                <AddressLine2>2nd cross</AddressLine2>
+                <City>Hyderabad</City>
+            </PermAddress>
+            <PresentAddress>
+                <Street>101</Street>
+                <AddressLine1>Gandhi nagar</AddressLine1>
+                <AddressLine2>2nd cross</AddressLine2>
+                <City>Hyderabad</City>
+            </PresentAddress>
+        </Addressess>
+    </Student1>
+    <Student2>
+        <FirstName>Anusha</FirstName>
+        <LastName>P</LastName>
+        <dob>1900-01-01</dob>
+        <mobile></mobile>
+        <!-- <Address>gandhi nagar, hyderabad,1234</Address>-->
+        <Addressess>
+            <PermAddress>
+                <Street>101</Street>
+                <AddressLine1>Gandhi nagar</AddressLine1>
+                <AddressLine2>2nd cross</AddressLine2>
+                <City>Hyderabad</City>
+            </PermAddress>
+            <PresentAddress>
+                <Street>101</Street>
+                <AddressLine1>Gandhi nagar</AddressLine1>
+                <AddressLine2>2nd cross</AddressLine2>
+                <City>Hyderabad</City>
+            </PresentAddress>
+        </Addressess>
+    </Student2>
+</Students>
