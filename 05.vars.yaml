@@ -8,5 +8,5 @@
   - name: print information
     vars:
       COURSE: "DevSecOps with AIOps"
-  - debug:
+    debug:
       msg: "Hi, This is {{ NAME }}, I am learning {{ COURSE }}"
