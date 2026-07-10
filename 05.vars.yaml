@@ -5,5 +5,8 @@
     NAME: "Anusha"
     COURSE: "Ansible"
   tasks:
+  - name: print information
+    vars:
+      COURSE: "DevSecOps with AIOps"
   - debug:
       msg: "Hi, This is {{ NAME }}, I am learning {{ COURSE }}"
