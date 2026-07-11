@@ -21,7 +21,7 @@
 
   - name: convert map to list
     debug:
-      msg: " {{ tagMap | dict2items }}"
+      msg: "{{ tagMap | dict2items }}"
 
   - name: convert list to map
     debug:
@@ -30,3 +30,7 @@
   - name: convert to uppercase
     debug:
       msg: "{{ full_name | upper }}"
+
+  - name: convert to lowercase
+    debug:
+      msg: "{{ full_name | lower }}"
