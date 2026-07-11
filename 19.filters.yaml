@@ -7,7 +7,8 @@
       name: Ansible
       project: roboshop
       environment: dev
-    full_name: Anusha P
+    full_name: Anusha Pothu
+    ip_address: 1000.850.389.7988
     tagList:  [
       {'key': 'name', 'value': 'Ansible'}, {'key': 'project', 'value': 'roboshop'}, {'key': 'environment', 'value': 'dev'}]
   tasks:
@@ -34,3 +35,7 @@
   - name: convert to lowercase
     debug:
       msg: "{{ full_name | lower }}"
+
+  - name: check valid ip address
+    debug:
+      msg: "{{ ip_address | ansible.utils.ipv4 }}"
