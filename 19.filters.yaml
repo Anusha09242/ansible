@@ -8,7 +8,7 @@
       project: roboshop
       environment: dev
     tagList:  [
-      {'key': 'name', 'value': 'Ansible'}, {'key': 'project', 'value': 'roboshop'}, {'key': 'environment', 'value': 'dev'}]"
+      {'key': 'name', 'value': 'Ansible'}, {'key': 'project', 'value': 'roboshop'}, {'key': 'environment', 'value': 'dev'}]
   tasks:
   - name: convert string to list
     debug:
